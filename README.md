@@ -67,3 +67,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 - 🚀 Feel free to explore my repositories and projects to learn more about my work. I'm always open to feedback and collaboration opportunities!
 
+## Contacts 
+
+brunoricardobs13@gmail.com
