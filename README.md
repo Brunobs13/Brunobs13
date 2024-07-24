@@ -1,4 +1,4 @@
-# Brunobs13
+# Bruno Ricardo
 
 # Hello, I'm Bruno Ricardo 👋
 
