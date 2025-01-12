@@ -4,17 +4,17 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## About Me
 
-- 🎓 Software Engineering Student
-- 🌐 Living in Germany 
-- 📚 Currently in the fifth semester of a distance learning program at Universidade Aberta de Portugal
-- 💼 Previous experience in project management, customer service
-- 🚀 Always willing to learn new skills and technologies
+-  Software Engineering Student
+-  Living in Germany 
+-  Currently in the fifth semester of a distance learning program at Universidade Aberta de Portugal
+-  Previous experience in project management, customer service
+-  Always willing to learn new skills and technologies
 
 ## Currently Learning
 
--    Neural Networks and AI
-- ☁️ Cloud Technologies (Azure)
-- 🔄 ETL Tools and Software Development
+-  Neural Networks and AI
+-  Cloud Technologies (Azure)
+-  ETL Tools and Software Development
 
 ## Languages
 
