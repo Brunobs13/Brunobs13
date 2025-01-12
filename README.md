@@ -1,7 +1,5 @@
 # Bruno Ricardo
 
-# Hello, I'm Bruno Ricardo 👋
-
 Welcome to my GitHub profile! I'm passionate about software development and always looking for new challenges and learning opportunities.
 
 ## About Me
