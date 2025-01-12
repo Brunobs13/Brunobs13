@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## Currently Learning
 
-- 🌱 Neural Networks and AI
+-    Neural Networks and AI
 - ☁️ Cloud Technologies (Azure)
 - 🔄 ETL Tools and Software Development
 
