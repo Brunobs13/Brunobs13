@@ -1,30 +1,6 @@
 # Bruno Ricardo
 
-Welcome to my GitHub profile! I'm passionate about software development and always looking for new challenges and learning opportunities.
-
-## About Me
-
--  Software Engineer
--  Living in Germany 
--  Previous experience in project management, customer service
--  Always willing to learn new skills and technologies
-
-## Currently Learning
-
--  Neural Networks and AI
--  Cloud Technologies (Azure)
--  ETL Tools and Software Development
-
-## Languages
-
-| Language   | Proficiency  |
-|------------|--------------|
-| 🇵🇹 Portuguese | Native       |
-| 🇬🇧 English    | Fluent (C2)  |
-| 🇩🇪 German     | Intermediate (B2) |
-| 🇪🇸 Spanish    | Intermediate (B1) |
-
-## Skills
+Welcome to my GitHub profile!
 
 ### Programming Languages
 
@@ -62,7 +38,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## Projects
 
-- 🚀 Feel free to explore my repositories and projects to learn more about my work. I'm always open to feedback and collaboration opportunities!
+Feel free to explore my repositories and projects to learn more about my work. I'm always open to feedback and collaboration opportunities!
 
 ## Contacts 
 
