@@ -1,6 +1,6 @@
 # Bruno Ricardo
 
-Welcome to my GitHub profile!
+Data Engineer delivering reliable, production-grade data pipelines and MLOps workflows.
 
 ### Programming Languages
 
